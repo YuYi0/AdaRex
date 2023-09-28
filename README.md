@@ -6,6 +6,6 @@ We propose AdaReX (Adaptive eXplainable Recommendation), to model auxiliary and 
 
 ![Description of Image](resource/AdaRex_loc.png)
 
-![Description of Image](resource/AdaRex.png)
+![Description of Image](resource/AdaReX.png)
 
 
